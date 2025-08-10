@@ -1,0 +1,18 @@
+allergy,dairy,milk allergy,lactose
+allergy,nuts,peanuts, almonds,tree nuts
+allergy,gluten,wheat allergy,celiac
+allergy,seafood,fish allergy,shellfish
+allergy,eggs,egg allergy,can't eat eggs
+food_type,oily,greasy,fried,deep-fried,dipped in oil
+food_type,sweet,sugar,dessert,sugary
+food_type,vegetarian,plant-based,no meat,only veggies,only vegetables
+food_type,fruits,apples,bananas,mangoes,orange
+food_type,junk food,fast food,unhealthy food
+food_type,salads,greens,raw veggies
+food_type,spicy,hot,chilli,masala
+health_goal,stay fit,maintain fitness, be healthy
+health_goal,diabetes control,manage sugar,control diabetes
+health_goal,muscle gain,build muscle,muscle up
+health_goal,weight gain,gain weight,bulk up
+health_goal,weight loss,lose weight,slim down,burn fat
+health_goal,reduce fat,burn fat,lower fat
