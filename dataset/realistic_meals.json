@@ -1,0 +1,2270 @@
+[
+  {
+    "goal": "stay fit",
+    "allergy": "none",
+    "preference": "vegetarian",
+    "breakfast": "grilled chicken with methi paratha",
+    "lunch": "yogurt + mixed salad and methi paratha",
+    "dinner": "grilled chicken bowl with grilled veggies and methi paratha",
+    "suggestion": "Include more water and physical activity for better results with stay fit."
+  },
+  {
+    "goal": "stay fit",
+    "allergy": "none",
+    "preference": "fruits",
+    "breakfast": "grilled chicken with banana pancakes",
+    "lunch": "grilled chicken + mixed salad and banana pancakes",
+    "dinner": "grilled chicken bowl with grilled veggies and banana pancakes",
+    "suggestion": "Include more water and physical activity for better results with stay fit."
+  },
+  {
+    "goal": "stay fit",
+    "allergy": "none",
+    "preference": "junk food",
+    "breakfast": "oats with baked nuggets",
+    "lunch": "oats + mixed salad and baked nuggets",
+    "dinner": "yogurt bowl with grilled veggies and baked nuggets",
+    "suggestion": "Include more water and physical activity for better results with stay fit."
+  },
+  {
+    "goal": "stay fit",
+    "allergy": "none",
+    "preference": "salads",
+    "breakfast": "oats with greek salad",
+    "lunch": "yogurt + mixed salad and greek salad",
+    "dinner": "yogurt bowl with grilled veggies and greek salad",
+    "suggestion": "Include more water and physical activity for better results with stay fit."
+  },
+  {
+    "goal": "stay fit",
+    "allergy": "none",
+    "preference": "spicy",
+    "breakfast": "grilled chicken with masala oats",
+    "lunch": "grilled chicken + mixed salad and masala oats",
+    "dinner": "oats bowl with grilled veggies and masala oats",
+    "suggestion": "Include more water and physical activity for better results with stay fit."
+  },
+  {
+    "goal": "stay fit",
+    "allergy": "none",
+    "preference": "sweet",
+    "breakfast": "steamed vegetables with honey oats",
+    "lunch": "grilled chicken + mixed salad and honey oats",
+    "dinner": "steamed vegetables bowl with grilled veggies and honey oats",
+    "suggestion": "Include more water and physical activity for better results with stay fit."
+  },
+  {
+    "goal": "stay fit",
+    "allergy": "none",
+    "preference": "oily",
+    "breakfast": "oats with olive oil stir-fry",
+    "lunch": "yogurt + mixed salad and olive oil stir-fry",
+    "dinner": "steamed vegetables bowl with grilled veggies and olive oil stir-fry",
+    "suggestion": "Include more water and physical activity for better results with stay fit."
+  },
+  {
+    "goal": "stay fit",
+    "allergy": "dairy",
+    "preference": "vegetarian",
+    "breakfast": "oats with fruit salad",
+    "lunch": "oats + mixed salad and fruit salad",
+    "dinner": "grilled chicken bowl with grilled veggies and fruit salad",
+    "suggestion": "Include more water and physical activity for better results with stay fit."
+  },
+  {
+    "goal": "stay fit",
+    "allergy": "dairy",
+    "preference": "fruits",
+    "breakfast": "oats with fruit bowl",
+    "lunch": "steamed vegetables + mixed salad and fruit bowl",
+    "dinner": "steamed vegetables bowl with grilled veggies and fruit bowl",
+    "suggestion": "Include more water and physical activity for better results with stay fit."
+  },
+  {
+    "goal": "stay fit",
+    "allergy": "dairy",
+    "preference": "junk food",
+    "breakfast": "steamed vegetables with baked nuggets",
+    "lunch": "oats + mixed salad and baked nuggets",
+    "dinner": "oats bowl with grilled veggies and baked nuggets",
+    "suggestion": "Include more water and physical activity for better results with stay fit."
+  },
+  {
+    "goal": "stay fit",
+    "allergy": "dairy",
+    "preference": "salads",
+    "breakfast": "grilled chicken with chickpea salad",
+    "lunch": "oats + mixed salad and chickpea salad",
+    "dinner": "steamed vegetables bowl with grilled veggies and chickpea salad",
+    "suggestion": "Include more water and physical activity for better results with stay fit."
+  },
+  {
+    "goal": "stay fit",
+    "allergy": "dairy",
+    "preference": "spicy",
+    "breakfast": "grilled chicken with spicy lentils",
+    "lunch": "oats + mixed salad and spicy lentils",
+    "dinner": "grilled chicken bowl with grilled veggies and spicy lentils",
+    "suggestion": "Include more water and physical activity for better results with stay fit."
+  },
+  {
+    "goal": "stay fit",
+    "allergy": "dairy",
+    "preference": "sweet",
+    "breakfast": "steamed vegetables with sweet corn salad",
+    "lunch": "oats + mixed salad and sweet corn salad",
+    "dinner": "oats bowl with grilled veggies and sweet corn salad",
+    "suggestion": "Include more water and physical activity for better results with stay fit."
+  },
+  {
+    "goal": "stay fit",
+    "allergy": "dairy",
+    "preference": "oily",
+    "breakfast": "oats with air-fried samosa",
+    "lunch": "steamed vegetables + mixed salad and air-fried samosa",
+    "dinner": "steamed vegetables bowl with grilled veggies and air-fried samosa",
+    "suggestion": "Include more water and physical activity for better results with stay fit."
+  },
+  {
+    "goal": "stay fit",
+    "allergy": "nuts",
+    "preference": "vegetarian",
+    "breakfast": "oats with veggie soup",
+    "lunch": "oats + mixed salad and veggie soup",
+    "dinner": "oats bowl with grilled veggies and veggie soup",
+    "suggestion": "Include more water and physical activity for better results with stay fit."
+  },
+  {
+    "goal": "stay fit",
+    "allergy": "nuts",
+    "preference": "fruits",
+    "breakfast": "yogurt with apple slices",
+    "lunch": "grilled chicken + mixed salad and apple slices",
+    "dinner": "oats bowl with grilled veggies and apple slices",
+    "suggestion": "Include more water and physical activity for better results with stay fit."
+  },
+  {
+    "goal": "stay fit",
+    "allergy": "nuts",
+    "preference": "junk food",
+    "breakfast": "grilled chicken with air-fried fries",
+    "lunch": "grilled chicken + mixed salad and air-fried fries",
+    "dinner": "oats bowl with grilled veggies and air-fried fries",
+    "suggestion": "Include more water and physical activity for better results with stay fit."
+  },
+  {
+    "goal": "stay fit",
+    "allergy": "nuts",
+    "preference": "salads",
+    "breakfast": "steamed vegetables with greek salad",
+    "lunch": "steamed vegetables + mixed salad and greek salad",
+    "dinner": "oats bowl with grilled veggies and greek salad",
+    "suggestion": "Include more water and physical activity for better results with stay fit."
+  },
+  {
+    "goal": "stay fit",
+    "allergy": "nuts",
+    "preference": "spicy",
+    "breakfast": "steamed vegetables with masala oats",
+    "lunch": "oats + mixed salad and masala oats",
+    "dinner": "oats bowl with grilled veggies and masala oats",
+    "suggestion": "Include more water and physical activity for better results with stay fit."
+  },
+  {
+    "goal": "stay fit",
+    "allergy": "nuts",
+    "preference": "sweet",
+    "breakfast": "oats with fruit yogurt",
+    "lunch": "yogurt + mixed salad and fruit yogurt",
+    "dinner": "oats bowl with grilled veggies and fruit yogurt",
+    "suggestion": "Include more water and physical activity for better results with stay fit."
+  },
+  {
+    "goal": "stay fit",
+    "allergy": "nuts",
+    "preference": "oily",
+    "breakfast": "yogurt with olive oil stir-fry",
+    "lunch": "grilled chicken + mixed salad and olive oil stir-fry",
+    "dinner": "grilled chicken bowl with grilled veggies and olive oil stir-fry",
+    "suggestion": "Include more water and physical activity for better results with stay fit."
+  },
+  {
+    "goal": "stay fit",
+    "allergy": "gluten",
+    "preference": "vegetarian",
+    "breakfast": "yogurt with veggie soup",
+    "lunch": "steamed vegetables + mixed salad and veggie soup",
+    "dinner": "yogurt bowl with grilled veggies and veggie soup",
+    "suggestion": "Include more water and physical activity for better results with stay fit."
+  },
+  {
+    "goal": "stay fit",
+    "allergy": "gluten",
+    "preference": "fruits",
+    "breakfast": "steamed vegetables with fruit bowl",
+    "lunch": "steamed vegetables + mixed salad and fruit bowl",
+    "dinner": "grilled chicken bowl with grilled veggies and fruit bowl",
+    "suggestion": "Include more water and physical activity for better results with stay fit."
+  },
+  {
+    "goal": "stay fit",
+    "allergy": "gluten",
+    "preference": "junk food",
+    "breakfast": "oats with healthy burger",
+    "lunch": "grilled chicken + mixed salad and healthy burger",
+    "dinner": "oats bowl with grilled veggies and healthy burger",
+    "suggestion": "Include more water and physical activity for better results with stay fit."
+  },
+  {
+    "goal": "stay fit",
+    "allergy": "gluten",
+    "preference": "salads",
+    "breakfast": "steamed vegetables with chickpea salad",
+    "lunch": "steamed vegetables + mixed salad and chickpea salad",
+    "dinner": "yogurt bowl with grilled veggies and chickpea salad",
+    "suggestion": "Include more water and physical activity for better results with stay fit."
+  },
+  {
+    "goal": "stay fit",
+    "allergy": "gluten",
+    "preference": "spicy",
+    "breakfast": "grilled chicken with spicy lentils",
+    "lunch": "oats + mixed salad and spicy lentils",
+    "dinner": "yogurt bowl with grilled veggies and spicy lentils",
+    "suggestion": "Include more water and physical activity for better results with stay fit."
+  },
+  {
+    "goal": "stay fit",
+    "allergy": "gluten",
+    "preference": "sweet",
+    "breakfast": "oats with honey oats",
+    "lunch": "steamed vegetables + mixed salad and honey oats",
+    "dinner": "grilled chicken bowl with grilled veggies and honey oats",
+    "suggestion": "Include more water and physical activity for better results with stay fit."
+  },
+  {
+    "goal": "stay fit",
+    "allergy": "gluten",
+    "preference": "oily",
+    "breakfast": "steamed vegetables with olive oil stir-fry",
+    "lunch": "steamed vegetables + mixed salad and olive oil stir-fry",
+    "dinner": "grilled chicken bowl with grilled veggies and olive oil stir-fry",
+    "suggestion": "Include more water and physical activity for better results with stay fit."
+  },
+  {
+    "goal": "stay fit",
+    "allergy": "seafood",
+    "preference": "vegetarian",
+    "breakfast": "grilled chicken with fruit salad",
+    "lunch": "yogurt + mixed salad and fruit salad",
+    "dinner": "oats bowl with grilled veggies and fruit salad",
+    "suggestion": "Include more water and physical activity for better results with stay fit."
+  },
+  {
+    "goal": "stay fit",
+    "allergy": "seafood",
+    "preference": "fruits",
+    "breakfast": "yogurt with apple slices",
+    "lunch": "grilled chicken + mixed salad and apple slices",
+    "dinner": "yogurt bowl with grilled veggies and apple slices",
+    "suggestion": "Include more water and physical activity for better results with stay fit."
+  },
+  {
+    "goal": "stay fit",
+    "allergy": "seafood",
+    "preference": "junk food",
+    "breakfast": "yogurt with baked nuggets",
+    "lunch": "grilled chicken + mixed salad and baked nuggets",
+    "dinner": "steamed vegetables bowl with grilled veggies and baked nuggets",
+    "suggestion": "Include more water and physical activity for better results with stay fit."
+  },
+  {
+    "goal": "stay fit",
+    "allergy": "seafood",
+    "preference": "salads",
+    "breakfast": "oats with chickpea salad",
+    "lunch": "steamed vegetables + mixed salad and chickpea salad",
+    "dinner": "oats bowl with grilled veggies and chickpea salad",
+    "suggestion": "Include more water and physical activity for better results with stay fit."
+  },
+  {
+    "goal": "stay fit",
+    "allergy": "seafood",
+    "preference": "spicy",
+    "breakfast": "grilled chicken with spicy lentils",
+    "lunch": "grilled chicken + mixed salad and spicy lentils",
+    "dinner": "steamed vegetables bowl with grilled veggies and spicy lentils",
+    "suggestion": "Include more water and physical activity for better results with stay fit."
+  },
+  {
+    "goal": "stay fit",
+    "allergy": "seafood",
+    "preference": "sweet",
+    "breakfast": "steamed vegetables with fruit yogurt",
+    "lunch": "oats + mixed salad and fruit yogurt",
+    "dinner": "grilled chicken bowl with grilled veggies and fruit yogurt",
+    "suggestion": "Include more water and physical activity for better results with stay fit."
+  },
+  {
+    "goal": "stay fit",
+    "allergy": "seafood",
+    "preference": "oily",
+    "breakfast": "oats with air-fried samosa",
+    "lunch": "grilled chicken + mixed salad and air-fried samosa",
+    "dinner": "oats bowl with grilled veggies and air-fried samosa",
+    "suggestion": "Include more water and physical activity for better results with stay fit."
+  },
+  {
+    "goal": "stay fit",
+    "allergy": "eggs",
+    "preference": "vegetarian",
+    "breakfast": "steamed vegetables with fruit salad",
+    "lunch": "grilled chicken + mixed salad and fruit salad",
+    "dinner": "grilled chicken bowl with grilled veggies and fruit salad",
+    "suggestion": "Include more water and physical activity for better results with stay fit."
+  },
+  {
+    "goal": "stay fit",
+    "allergy": "eggs",
+    "preference": "fruits",
+    "breakfast": "steamed vegetables with apple slices",
+    "lunch": "grilled chicken + mixed salad and apple slices",
+    "dinner": "steamed vegetables bowl with grilled veggies and apple slices",
+    "suggestion": "Include more water and physical activity for better results with stay fit."
+  },
+  {
+    "goal": "stay fit",
+    "allergy": "eggs",
+    "preference": "junk food",
+    "breakfast": "grilled chicken with baked nuggets",
+    "lunch": "yogurt + mixed salad and baked nuggets",
+    "dinner": "grilled chicken bowl with grilled veggies and baked nuggets",
+    "suggestion": "Include more water and physical activity for better results with stay fit."
+  },
+  {
+    "goal": "stay fit",
+    "allergy": "eggs",
+    "preference": "salads",
+    "breakfast": "yogurt with kale salad",
+    "lunch": "steamed vegetables + mixed salad and kale salad",
+    "dinner": "steamed vegetables bowl with grilled veggies and kale salad",
+    "suggestion": "Include more water and physical activity for better results with stay fit."
+  },
+  {
+    "goal": "stay fit",
+    "allergy": "eggs",
+    "preference": "spicy",
+    "breakfast": "steamed vegetables with pepper tofu",
+    "lunch": "oats + mixed salad and pepper tofu",
+    "dinner": "steamed vegetables bowl with grilled veggies and pepper tofu",
+    "suggestion": "Include more water and physical activity for better results with stay fit."
+  },
+  {
+    "goal": "stay fit",
+    "allergy": "eggs",
+    "preference": "sweet",
+    "breakfast": "grilled chicken with fruit yogurt",
+    "lunch": "grilled chicken + mixed salad and fruit yogurt",
+    "dinner": "yogurt bowl with grilled veggies and fruit yogurt",
+    "suggestion": "Include more water and physical activity for better results with stay fit."
+  },
+  {
+    "goal": "stay fit",
+    "allergy": "eggs",
+    "preference": "oily",
+    "breakfast": "grilled chicken with grilled sandwich",
+    "lunch": "steamed vegetables + mixed salad and grilled sandwich",
+    "dinner": "oats bowl with grilled veggies and grilled sandwich",
+    "suggestion": "Include more water and physical activity for better results with stay fit."
+  },
+  {
+    "goal": "diabetes control",
+    "allergy": "none",
+    "preference": "vegetarian",
+    "breakfast": "whole grains with fruit salad",
+    "lunch": "lentils + mixed salad and fruit salad",
+    "dinner": "lentils bowl with grilled veggies and fruit salad",
+    "suggestion": "Include more water and physical activity for better results with diabetes control."
+  },
+  {
+    "goal": "diabetes control",
+    "allergy": "none",
+    "preference": "fruits",
+    "breakfast": "green veggies with apple slices",
+    "lunch": "lentils + mixed salad and apple slices",
+    "dinner": "lentils bowl with grilled veggies and apple slices",
+    "suggestion": "Include more water and physical activity for better results with diabetes control."
+  },
+  {
+    "goal": "diabetes control",
+    "allergy": "none",
+    "preference": "junk food",
+    "breakfast": "low-GI fruits with healthy burger",
+    "lunch": "green veggies + mixed salad and healthy burger",
+    "dinner": "lentils bowl with grilled veggies and healthy burger",
+    "suggestion": "Include more water and physical activity for better results with diabetes control."
+  },
+  {
+    "goal": "diabetes control",
+    "allergy": "none",
+    "preference": "salads",
+    "breakfast": "green veggies with greek salad",
+    "lunch": "lentils + mixed salad and greek salad",
+    "dinner": "low-GI fruits bowl with grilled veggies and greek salad",
+    "suggestion": "Include more water and physical activity for better results with diabetes control."
+  },
+  {
+    "goal": "diabetes control",
+    "allergy": "none",
+    "preference": "spicy",
+    "breakfast": "green veggies with masala oats",
+    "lunch": "whole grains + mixed salad and masala oats",
+    "dinner": "low-GI fruits bowl with grilled veggies and masala oats",
+    "suggestion": "Include more water and physical activity for better results with diabetes control."
+  },
+  {
+    "goal": "diabetes control",
+    "allergy": "none",
+    "preference": "sweet",
+    "breakfast": "whole grains with sweet corn salad",
+    "lunch": "low-GI fruits + mixed salad and sweet corn salad",
+    "dinner": "whole grains bowl with grilled veggies and sweet corn salad",
+    "suggestion": "Include more water and physical activity for better results with diabetes control."
+  },
+  {
+    "goal": "diabetes control",
+    "allergy": "none",
+    "preference": "oily",
+    "breakfast": "green veggies with grilled sandwich",
+    "lunch": "whole grains + mixed salad and grilled sandwich",
+    "dinner": "green veggies bowl with grilled veggies and grilled sandwich",
+    "suggestion": "Include more water and physical activity for better results with diabetes control."
+  },
+  {
+    "goal": "diabetes control",
+    "allergy": "dairy",
+    "preference": "vegetarian",
+    "breakfast": "whole grains with fruit salad",
+    "lunch": "green veggies + mixed salad and fruit salad",
+    "dinner": "whole grains bowl with grilled veggies and fruit salad",
+    "suggestion": "Include more water and physical activity for better results with diabetes control."
+  },
+  {
+    "goal": "diabetes control",
+    "allergy": "dairy",
+    "preference": "fruits",
+    "breakfast": "green veggies with apple slices",
+    "lunch": "whole grains + mixed salad and apple slices",
+    "dinner": "low-GI fruits bowl with grilled veggies and apple slices",
+    "suggestion": "Include more water and physical activity for better results with diabetes control."
+  },
+  {
+    "goal": "diabetes control",
+    "allergy": "dairy",
+    "preference": "junk food",
+    "breakfast": "low-GI fruits with baked nuggets",
+    "lunch": "green veggies + mixed salad and baked nuggets",
+    "dinner": "low-GI fruits bowl with grilled veggies and baked nuggets",
+    "suggestion": "Include more water and physical activity for better results with diabetes control."
+  },
+  {
+    "goal": "diabetes control",
+    "allergy": "dairy",
+    "preference": "salads",
+    "breakfast": "green veggies with chickpea salad",
+    "lunch": "green veggies + mixed salad and chickpea salad",
+    "dinner": "lentils bowl with grilled veggies and chickpea salad",
+    "suggestion": "Include more water and physical activity for better results with diabetes control."
+  },
+  {
+    "goal": "diabetes control",
+    "allergy": "dairy",
+    "preference": "spicy",
+    "breakfast": "low-GI fruits with spicy lentils",
+    "lunch": "lentils + mixed salad and spicy lentils",
+    "dinner": "low-GI fruits bowl with grilled veggies and spicy lentils",
+    "suggestion": "Include more water and physical activity for better results with diabetes control."
+  },
+  {
+    "goal": "diabetes control",
+    "allergy": "dairy",
+    "preference": "sweet",
+    "breakfast": "green veggies with honey oats",
+    "lunch": "green veggies + mixed salad and honey oats",
+    "dinner": "whole grains bowl with grilled veggies and honey oats",
+    "suggestion": "Include more water and physical activity for better results with diabetes control."
+  },
+  {
+    "goal": "diabetes control",
+    "allergy": "dairy",
+    "preference": "oily",
+    "breakfast": "low-GI fruits with air-fried samosa",
+    "lunch": "whole grains + mixed salad and air-fried samosa",
+    "dinner": "low-GI fruits bowl with grilled veggies and air-fried samosa",
+    "suggestion": "Include more water and physical activity for better results with diabetes control."
+  },
+  {
+    "goal": "diabetes control",
+    "allergy": "nuts",
+    "preference": "vegetarian",
+    "breakfast": "whole grains with fruit salad",
+    "lunch": "whole grains + mixed salad and fruit salad",
+    "dinner": "low-GI fruits bowl with grilled veggies and fruit salad",
+    "suggestion": "Include more water and physical activity for better results with diabetes control."
+  },
+  {
+    "goal": "diabetes control",
+    "allergy": "nuts",
+    "preference": "fruits",
+    "breakfast": "green veggies with apple slices",
+    "lunch": "green veggies + mixed salad and apple slices",
+    "dinner": "lentils bowl with grilled veggies and apple slices",
+    "suggestion": "Include more water and physical activity for better results with diabetes control."
+  },
+  {
+    "goal": "diabetes control",
+    "allergy": "nuts",
+    "preference": "junk food",
+    "breakfast": "low-GI fruits with healthy burger",
+    "lunch": "whole grains + mixed salad and healthy burger",
+    "dinner": "whole grains bowl with grilled veggies and healthy burger",
+    "suggestion": "Include more water and physical activity for better results with diabetes control."
+  },
+  {
+    "goal": "diabetes control",
+    "allergy": "nuts",
+    "preference": "salads",
+    "breakfast": "lentils with greek salad",
+    "lunch": "lentils + mixed salad and greek salad",
+    "dinner": "whole grains bowl with grilled veggies and greek salad",
+    "suggestion": "Include more water and physical activity for better results with diabetes control."
+  },
+  {
+    "goal": "diabetes control",
+    "allergy": "nuts",
+    "preference": "spicy",
+    "breakfast": "lentils with spicy lentils",
+    "lunch": "whole grains + mixed salad and spicy lentils",
+    "dinner": "green veggies bowl with grilled veggies and spicy lentils",
+    "suggestion": "Include more water and physical activity for better results with diabetes control."
+  },
+  {
+    "goal": "diabetes control",
+    "allergy": "nuts",
+    "preference": "sweet",
+    "breakfast": "whole grains with honey oats",
+    "lunch": "whole grains + mixed salad and honey oats",
+    "dinner": "green veggies bowl with grilled veggies and honey oats",
+    "suggestion": "Include more water and physical activity for better results with diabetes control."
+  },
+  {
+    "goal": "diabetes control",
+    "allergy": "nuts",
+    "preference": "oily",
+    "breakfast": "low-GI fruits with grilled sandwich",
+    "lunch": "green veggies + mixed salad and grilled sandwich",
+    "dinner": "lentils bowl with grilled veggies and grilled sandwich",
+    "suggestion": "Include more water and physical activity for better results with diabetes control."
+  },
+  {
+    "goal": "diabetes control",
+    "allergy": "gluten",
+    "preference": "vegetarian",
+    "breakfast": "low-GI fruits with fruit salad",
+    "lunch": "whole grains + mixed salad and fruit salad",
+    "dinner": "lentils bowl with grilled veggies and fruit salad",
+    "suggestion": "Include more water and physical activity for better results with diabetes control."
+  },
+  {
+    "goal": "diabetes control",
+    "allergy": "gluten",
+    "preference": "fruits",
+    "breakfast": "whole grains with apple slices",
+    "lunch": "low-GI fruits + mixed salad and apple slices",
+    "dinner": "low-GI fruits bowl with grilled veggies and apple slices",
+    "suggestion": "Include more water and physical activity for better results with diabetes control."
+  },
+  {
+    "goal": "diabetes control",
+    "allergy": "gluten",
+    "preference": "junk food",
+    "breakfast": "low-GI fruits with healthy burger",
+    "lunch": "green veggies + mixed salad and healthy burger",
+    "dinner": "lentils bowl with grilled veggies and healthy burger",
+    "suggestion": "Include more water and physical activity for better results with diabetes control."
+  },
+  {
+    "goal": "diabetes control",
+    "allergy": "gluten",
+    "preference": "salads",
+    "breakfast": "low-GI fruits with chickpea salad",
+    "lunch": "lentils + mixed salad and chickpea salad",
+    "dinner": "low-GI fruits bowl with grilled veggies and chickpea salad",
+    "suggestion": "Include more water and physical activity for better results with diabetes control."
+  },
+  {
+    "goal": "diabetes control",
+    "allergy": "gluten",
+    "preference": "spicy",
+    "breakfast": "whole grains with masala oats",
+    "lunch": "green veggies + mixed salad and masala oats",
+    "dinner": "low-GI fruits bowl with grilled veggies and masala oats",
+    "suggestion": "Include more water and physical activity for better results with diabetes control."
+  },
+  {
+    "goal": "diabetes control",
+    "allergy": "gluten",
+    "preference": "sweet",
+    "breakfast": "whole grains with honey oats",
+    "lunch": "low-GI fruits + mixed salad and honey oats",
+    "dinner": "lentils bowl with grilled veggies and honey oats",
+    "suggestion": "Include more water and physical activity for better results with diabetes control."
+  },
+  {
+    "goal": "diabetes control",
+    "allergy": "gluten",
+    "preference": "oily",
+    "breakfast": "green veggies with air-fried samosa",
+    "lunch": "whole grains + mixed salad and air-fried samosa",
+    "dinner": "low-GI fruits bowl with grilled veggies and air-fried samosa",
+    "suggestion": "Include more water and physical activity for better results with diabetes control."
+  },
+  {
+    "goal": "diabetes control",
+    "allergy": "seafood",
+    "preference": "vegetarian",
+    "breakfast": "whole grains with veggie soup",
+    "lunch": "whole grains + mixed salad and veggie soup",
+    "dinner": "whole grains bowl with grilled veggies and veggie soup",
+    "suggestion": "Include more water and physical activity for better results with diabetes control."
+  },
+  {
+    "goal": "diabetes control",
+    "allergy": "seafood",
+    "preference": "fruits",
+    "breakfast": "green veggies with banana pancakes",
+    "lunch": "lentils + mixed salad and banana pancakes",
+    "dinner": "low-GI fruits bowl with grilled veggies and banana pancakes",
+    "suggestion": "Include more water and physical activity for better results with diabetes control."
+  },
+  {
+    "goal": "diabetes control",
+    "allergy": "seafood",
+    "preference": "junk food",
+    "breakfast": "low-GI fruits with healthy burger",
+    "lunch": "green veggies + mixed salad and healthy burger",
+    "dinner": "lentils bowl with grilled veggies and healthy burger",
+    "suggestion": "Include more water and physical activity for better results with diabetes control."
+  },
+  {
+    "goal": "diabetes control",
+    "allergy": "seafood",
+    "preference": "salads",
+    "breakfast": "whole grains with kale salad",
+    "lunch": "lentils + mixed salad and kale salad",
+    "dinner": "whole grains bowl with grilled veggies and kale salad",
+    "suggestion": "Include more water and physical activity for better results with diabetes control."
+  },
+  {
+    "goal": "diabetes control",
+    "allergy": "seafood",
+    "preference": "spicy",
+    "breakfast": "whole grains with pepper tofu",
+    "lunch": "whole grains + mixed salad and pepper tofu",
+    "dinner": "low-GI fruits bowl with grilled veggies and pepper tofu",
+    "suggestion": "Include more water and physical activity for better results with diabetes control."
+  },
+  {
+    "goal": "diabetes control",
+    "allergy": "seafood",
+    "preference": "sweet",
+    "breakfast": "whole grains with honey oats",
+    "lunch": "low-GI fruits + mixed salad and honey oats",
+    "dinner": "lentils bowl with grilled veggies and honey oats",
+    "suggestion": "Include more water and physical activity for better results with diabetes control."
+  },
+  {
+    "goal": "diabetes control",
+    "allergy": "seafood",
+    "preference": "oily",
+    "breakfast": "lentils with air-fried samosa",
+    "lunch": "green veggies + mixed salad and air-fried samosa",
+    "dinner": "whole grains bowl with grilled veggies and air-fried samosa",
+    "suggestion": "Include more water and physical activity for better results with diabetes control."
+  },
+  {
+    "goal": "diabetes control",
+    "allergy": "eggs",
+    "preference": "vegetarian",
+    "breakfast": "green veggies with methi paratha",
+    "lunch": "green veggies + mixed salad and methi paratha",
+    "dinner": "green veggies bowl with grilled veggies and methi paratha",
+    "suggestion": "Include more water and physical activity for better results with diabetes control."
+  },
+  {
+    "goal": "diabetes control",
+    "allergy": "eggs",
+    "preference": "fruits",
+    "breakfast": "whole grains with fruit bowl",
+    "lunch": "whole grains + mixed salad and fruit bowl",
+    "dinner": "lentils bowl with grilled veggies and fruit bowl",
+    "suggestion": "Include more water and physical activity for better results with diabetes control."
+  },
+  {
+    "goal": "diabetes control",
+    "allergy": "eggs",
+    "preference": "junk food",
+    "breakfast": "low-GI fruits with baked nuggets",
+    "lunch": "green veggies + mixed salad and baked nuggets",
+    "dinner": "green veggies bowl with grilled veggies and baked nuggets",
+    "suggestion": "Include more water and physical activity for better results with diabetes control."
+  },
+  {
+    "goal": "diabetes control",
+    "allergy": "eggs",
+    "preference": "salads",
+    "breakfast": "lentils with kale salad",
+    "lunch": "green veggies + mixed salad and kale salad",
+    "dinner": "lentils bowl with grilled veggies and kale salad",
+    "suggestion": "Include more water and physical activity for better results with diabetes control."
+  },
+  {
+    "goal": "diabetes control",
+    "allergy": "eggs",
+    "preference": "spicy",
+    "breakfast": "green veggies with masala oats",
+    "lunch": "lentils + mixed salad and masala oats",
+    "dinner": "whole grains bowl with grilled veggies and masala oats",
+    "suggestion": "Include more water and physical activity for better results with diabetes control."
+  },
+  {
+    "goal": "diabetes control",
+    "allergy": "eggs",
+    "preference": "sweet",
+    "breakfast": "lentils with sweet corn salad",
+    "lunch": "lentils + mixed salad and sweet corn salad",
+    "dinner": "green veggies bowl with grilled veggies and sweet corn salad",
+    "suggestion": "Include more water and physical activity for better results with diabetes control."
+  },
+  {
+    "goal": "diabetes control",
+    "allergy": "eggs",
+    "preference": "oily",
+    "breakfast": "green veggies with olive oil stir-fry",
+    "lunch": "green veggies + mixed salad and olive oil stir-fry",
+    "dinner": "low-GI fruits bowl with grilled veggies and olive oil stir-fry",
+    "suggestion": "Include more water and physical activity for better results with diabetes control."
+  },
+  {
+    "goal": "muscle gain",
+    "allergy": "none",
+    "preference": "vegetarian",
+    "breakfast": "chicken breast with veggie soup",
+    "lunch": "eggs + mixed salad and veggie soup",
+    "dinner": "chicken breast bowl with grilled veggies and veggie soup",
+    "suggestion": "Include more water and physical activity for better results with muscle gain."
+  },
+  {
+    "goal": "muscle gain",
+    "allergy": "none",
+    "preference": "fruits",
+    "breakfast": "eggs with banana pancakes",
+    "lunch": "chicken breast + mixed salad and banana pancakes",
+    "dinner": "eggs bowl with grilled veggies and banana pancakes",
+    "suggestion": "Include more water and physical activity for better results with muscle gain."
+  },
+  {
+    "goal": "muscle gain",
+    "allergy": "none",
+    "preference": "junk food",
+    "breakfast": "paneer with healthy burger",
+    "lunch": "protein shake + mixed salad and healthy burger",
+    "dinner": "eggs bowl with grilled veggies and healthy burger",
+    "suggestion": "Include more water and physical activity for better results with muscle gain."
+  },
+  {
+    "goal": "muscle gain",
+    "allergy": "none",
+    "preference": "salads",
+    "breakfast": "eggs with kale salad",
+    "lunch": "eggs + mixed salad and kale salad",
+    "dinner": "eggs bowl with grilled veggies and kale salad",
+    "suggestion": "Include more water and physical activity for better results with muscle gain."
+  },
+  {
+    "goal": "muscle gain",
+    "allergy": "none",
+    "preference": "spicy",
+    "breakfast": "chicken breast with pepper tofu",
+    "lunch": "protein shake + mixed salad and pepper tofu",
+    "dinner": "paneer bowl with grilled veggies and pepper tofu",
+    "suggestion": "Include more water and physical activity for better results with muscle gain."
+  },
+  {
+    "goal": "muscle gain",
+    "allergy": "none",
+    "preference": "sweet",
+    "breakfast": "paneer with sweet corn salad",
+    "lunch": "eggs + mixed salad and sweet corn salad",
+    "dinner": "protein shake bowl with grilled veggies and sweet corn salad",
+    "suggestion": "Include more water and physical activity for better results with muscle gain."
+  },
+  {
+    "goal": "muscle gain",
+    "allergy": "none",
+    "preference": "oily",
+    "breakfast": "chicken breast with grilled sandwich",
+    "lunch": "chicken breast + mixed salad and grilled sandwich",
+    "dinner": "chicken breast bowl with grilled veggies and grilled sandwich",
+    "suggestion": "Include more water and physical activity for better results with muscle gain."
+  },
+  {
+    "goal": "muscle gain",
+    "allergy": "dairy",
+    "preference": "vegetarian",
+    "breakfast": "chicken breast with methi paratha",
+    "lunch": "eggs + mixed salad and methi paratha",
+    "dinner": "protein shake bowl with grilled veggies and methi paratha",
+    "suggestion": "Include more water and physical activity for better results with muscle gain."
+  },
+  {
+    "goal": "muscle gain",
+    "allergy": "dairy",
+    "preference": "fruits",
+    "breakfast": "protein shake with fruit bowl",
+    "lunch": "chicken breast + mixed salad and fruit bowl",
+    "dinner": "chicken breast bowl with grilled veggies and fruit bowl",
+    "suggestion": "Include more water and physical activity for better results with muscle gain."
+  },
+  {
+    "goal": "muscle gain",
+    "allergy": "dairy",
+    "preference": "junk food",
+    "breakfast": "chicken breast with air-fried fries",
+    "lunch": "eggs + mixed salad and air-fried fries",
+    "dinner": "eggs bowl with grilled veggies and air-fried fries",
+    "suggestion": "Include more water and physical activity for better results with muscle gain."
+  },
+  {
+    "goal": "muscle gain",
+    "allergy": "dairy",
+    "preference": "salads",
+    "breakfast": "eggs with kale salad",
+    "lunch": "eggs + mixed salad and kale salad",
+    "dinner": "protein shake bowl with grilled veggies and kale salad",
+    "suggestion": "Include more water and physical activity for better results with muscle gain."
+  },
+  {
+    "goal": "muscle gain",
+    "allergy": "dairy",
+    "preference": "spicy",
+    "breakfast": "protein shake with masala oats",
+    "lunch": "protein shake + mixed salad and masala oats",
+    "dinner": "eggs bowl with grilled veggies and masala oats",
+    "suggestion": "Include more water and physical activity for better results with muscle gain."
+  },
+  {
+    "goal": "muscle gain",
+    "allergy": "dairy",
+    "preference": "sweet",
+    "breakfast": "protein shake with fruit yogurt",
+    "lunch": "protein shake + mixed salad and fruit yogurt",
+    "dinner": "protein shake bowl with grilled veggies and fruit yogurt",
+    "suggestion": "Include more water and physical activity for better results with muscle gain."
+  },
+  {
+    "goal": "muscle gain",
+    "allergy": "dairy",
+    "preference": "oily",
+    "breakfast": "protein shake with air-fried samosa",
+    "lunch": "protein shake + mixed salad and air-fried samosa",
+    "dinner": "protein shake bowl with grilled veggies and air-fried samosa",
+    "suggestion": "Include more water and physical activity for better results with muscle gain."
+  },
+  {
+    "goal": "muscle gain",
+    "allergy": "nuts",
+    "preference": "vegetarian",
+    "breakfast": "eggs with fruit salad",
+    "lunch": "protein shake + mixed salad and fruit salad",
+    "dinner": "eggs bowl with grilled veggies and fruit salad",
+    "suggestion": "Include more water and physical activity for better results with muscle gain."
+  },
+  {
+    "goal": "muscle gain",
+    "allergy": "nuts",
+    "preference": "fruits",
+    "breakfast": "protein shake with apple slices",
+    "lunch": "paneer + mixed salad and apple slices",
+    "dinner": "protein shake bowl with grilled veggies and apple slices",
+    "suggestion": "Include more water and physical activity for better results with muscle gain."
+  },
+  {
+    "goal": "muscle gain",
+    "allergy": "nuts",
+    "preference": "junk food",
+    "breakfast": "eggs with baked nuggets",
+    "lunch": "paneer + mixed salad and baked nuggets",
+    "dinner": "protein shake bowl with grilled veggies and baked nuggets",
+    "suggestion": "Include more water and physical activity for better results with muscle gain."
+  },
+  {
+    "goal": "muscle gain",
+    "allergy": "nuts",
+    "preference": "salads",
+    "breakfast": "protein shake with greek salad",
+    "lunch": "protein shake + mixed salad and greek salad",
+    "dinner": "protein shake bowl with grilled veggies and greek salad",
+    "suggestion": "Include more water and physical activity for better results with muscle gain."
+  },
+  {
+    "goal": "muscle gain",
+    "allergy": "nuts",
+    "preference": "spicy",
+    "breakfast": "paneer with spicy lentils",
+    "lunch": "eggs + mixed salad and spicy lentils",
+    "dinner": "eggs bowl with grilled veggies and spicy lentils",
+    "suggestion": "Include more water and physical activity for better results with muscle gain."
+  },
+  {
+    "goal": "muscle gain",
+    "allergy": "nuts",
+    "preference": "sweet",
+    "breakfast": "protein shake with honey oats",
+    "lunch": "eggs + mixed salad and honey oats",
+    "dinner": "eggs bowl with grilled veggies and honey oats",
+    "suggestion": "Include more water and physical activity for better results with muscle gain."
+  },
+  {
+    "goal": "muscle gain",
+    "allergy": "nuts",
+    "preference": "oily",
+    "breakfast": "protein shake with air-fried samosa",
+    "lunch": "eggs + mixed salad and air-fried samosa",
+    "dinner": "paneer bowl with grilled veggies and air-fried samosa",
+    "suggestion": "Include more water and physical activity for better results with muscle gain."
+  },
+  {
+    "goal": "muscle gain",
+    "allergy": "gluten",
+    "preference": "vegetarian",
+    "breakfast": "chicken breast with methi paratha",
+    "lunch": "eggs + mixed salad and methi paratha",
+    "dinner": "protein shake bowl with grilled veggies and methi paratha",
+    "suggestion": "Include more water and physical activity for better results with muscle gain."
+  },
+  {
+    "goal": "muscle gain",
+    "allergy": "gluten",
+    "preference": "fruits",
+    "breakfast": "paneer with apple slices",
+    "lunch": "chicken breast + mixed salad and apple slices",
+    "dinner": "eggs bowl with grilled veggies and apple slices",
+    "suggestion": "Include more water and physical activity for better results with muscle gain."
+  },
+  {
+    "goal": "muscle gain",
+    "allergy": "gluten",
+    "preference": "junk food",
+    "breakfast": "protein shake with air-fried fries",
+    "lunch": "paneer + mixed salad and air-fried fries",
+    "dinner": "eggs bowl with grilled veggies and air-fried fries",
+    "suggestion": "Include more water and physical activity for better results with muscle gain."
+  },
+  {
+    "goal": "muscle gain",
+    "allergy": "gluten",
+    "preference": "salads",
+    "breakfast": "chicken breast with kale salad",
+    "lunch": "protein shake + mixed salad and kale salad",
+    "dinner": "paneer bowl with grilled veggies and kale salad",
+    "suggestion": "Include more water and physical activity for better results with muscle gain."
+  },
+  {
+    "goal": "muscle gain",
+    "allergy": "gluten",
+    "preference": "spicy",
+    "breakfast": "chicken breast with masala oats",
+    "lunch": "chicken breast + mixed salad and masala oats",
+    "dinner": "paneer bowl with grilled veggies and masala oats",
+    "suggestion": "Include more water and physical activity for better results with muscle gain."
+  },
+  {
+    "goal": "muscle gain",
+    "allergy": "gluten",
+    "preference": "sweet",
+    "breakfast": "paneer with sweet corn salad",
+    "lunch": "chicken breast + mixed salad and sweet corn salad",
+    "dinner": "protein shake bowl with grilled veggies and sweet corn salad",
+    "suggestion": "Include more water and physical activity for better results with muscle gain."
+  },
+  {
+    "goal": "muscle gain",
+    "allergy": "gluten",
+    "preference": "oily",
+    "breakfast": "eggs with olive oil stir-fry",
+    "lunch": "protein shake + mixed salad and olive oil stir-fry",
+    "dinner": "eggs bowl with grilled veggies and olive oil stir-fry",
+    "suggestion": "Include more water and physical activity for better results with muscle gain."
+  },
+  {
+    "goal": "muscle gain",
+    "allergy": "seafood",
+    "preference": "vegetarian",
+    "breakfast": "protein shake with fruit salad",
+    "lunch": "chicken breast + mixed salad and fruit salad",
+    "dinner": "paneer bowl with grilled veggies and fruit salad",
+    "suggestion": "Include more water and physical activity for better results with muscle gain."
+  },
+  {
+    "goal": "muscle gain",
+    "allergy": "seafood",
+    "preference": "fruits",
+    "breakfast": "paneer with banana pancakes",
+    "lunch": "paneer + mixed salad and banana pancakes",
+    "dinner": "eggs bowl with grilled veggies and banana pancakes",
+    "suggestion": "Include more water and physical activity for better results with muscle gain."
+  },
+  {
+    "goal": "muscle gain",
+    "allergy": "seafood",
+    "preference": "junk food",
+    "breakfast": "protein shake with healthy burger",
+    "lunch": "paneer + mixed salad and healthy burger",
+    "dinner": "paneer bowl with grilled veggies and healthy burger",
+    "suggestion": "Include more water and physical activity for better results with muscle gain."
+  },
+  {
+    "goal": "muscle gain",
+    "allergy": "seafood",
+    "preference": "salads",
+    "breakfast": "paneer with kale salad",
+    "lunch": "paneer + mixed salad and kale salad",
+    "dinner": "eggs bowl with grilled veggies and kale salad",
+    "suggestion": "Include more water and physical activity for better results with muscle gain."
+  },
+  {
+    "goal": "muscle gain",
+    "allergy": "seafood",
+    "preference": "spicy",
+    "breakfast": "eggs with pepper tofu",
+    "lunch": "chicken breast + mixed salad and pepper tofu",
+    "dinner": "eggs bowl with grilled veggies and pepper tofu",
+    "suggestion": "Include more water and physical activity for better results with muscle gain."
+  },
+  {
+    "goal": "muscle gain",
+    "allergy": "seafood",
+    "preference": "sweet",
+    "breakfast": "paneer with fruit yogurt",
+    "lunch": "protein shake + mixed salad and fruit yogurt",
+    "dinner": "protein shake bowl with grilled veggies and fruit yogurt",
+    "suggestion": "Include more water and physical activity for better results with muscle gain."
+  },
+  {
+    "goal": "muscle gain",
+    "allergy": "seafood",
+    "preference": "oily",
+    "breakfast": "protein shake with grilled sandwich",
+    "lunch": "chicken breast + mixed salad and grilled sandwich",
+    "dinner": "chicken breast bowl with grilled veggies and grilled sandwich",
+    "suggestion": "Include more water and physical activity for better results with muscle gain."
+  },
+  {
+    "goal": "muscle gain",
+    "allergy": "eggs",
+    "preference": "vegetarian",
+    "breakfast": "chicken breast with veggie soup",
+    "lunch": "protein shake + mixed salad and veggie soup",
+    "dinner": "protein shake bowl with grilled veggies and veggie soup",
+    "suggestion": "Include more water and physical activity for better results with muscle gain."
+  },
+  {
+    "goal": "muscle gain",
+    "allergy": "eggs",
+    "preference": "fruits",
+    "breakfast": "protein shake with apple slices",
+    "lunch": "paneer + mixed salad and apple slices",
+    "dinner": "chicken breast bowl with grilled veggies and apple slices",
+    "suggestion": "Include more water and physical activity for better results with muscle gain."
+  },
+  {
+    "goal": "muscle gain",
+    "allergy": "eggs",
+    "preference": "junk food",
+    "breakfast": "chicken breast with air-fried fries",
+    "lunch": "protein shake + mixed salad and air-fried fries",
+    "dinner": "paneer bowl with grilled veggies and air-fried fries",
+    "suggestion": "Include more water and physical activity for better results with muscle gain."
+  },
+  {
+    "goal": "muscle gain",
+    "allergy": "eggs",
+    "preference": "salads",
+    "breakfast": "chicken breast with greek salad",
+    "lunch": "chicken breast + mixed salad and greek salad",
+    "dinner": "protein shake bowl with grilled veggies and greek salad",
+    "suggestion": "Include more water and physical activity for better results with muscle gain."
+  },
+  {
+    "goal": "muscle gain",
+    "allergy": "eggs",
+    "preference": "spicy",
+    "breakfast": "protein shake with pepper tofu",
+    "lunch": "protein shake + mixed salad and pepper tofu",
+    "dinner": "protein shake bowl with grilled veggies and pepper tofu",
+    "suggestion": "Include more water and physical activity for better results with muscle gain."
+  },
+  {
+    "goal": "muscle gain",
+    "allergy": "eggs",
+    "preference": "sweet",
+    "breakfast": "paneer with fruit yogurt",
+    "lunch": "protein shake + mixed salad and fruit yogurt",
+    "dinner": "chicken breast bowl with grilled veggies and fruit yogurt",
+    "suggestion": "Include more water and physical activity for better results with muscle gain."
+  },
+  {
+    "goal": "muscle gain",
+    "allergy": "eggs",
+    "preference": "oily",
+    "breakfast": "chicken breast with grilled sandwich",
+    "lunch": "paneer + mixed salad and grilled sandwich",
+    "dinner": "paneer bowl with grilled veggies and grilled sandwich",
+    "suggestion": "Include more water and physical activity for better results with muscle gain."
+  },
+  {
+    "goal": "weight gain",
+    "allergy": "none",
+    "preference": "vegetarian",
+    "breakfast": "avocados with fruit salad",
+    "lunch": "cheese sandwich + mixed salad and fruit salad",
+    "dinner": "dry fruits bowl with grilled veggies and fruit salad",
+    "suggestion": "Include more water and physical activity for better results with weight gain."
+  },
+  {
+    "goal": "weight gain",
+    "allergy": "none",
+    "preference": "fruits",
+    "breakfast": "cheese sandwich with fruit bowl",
+    "lunch": "dry fruits + mixed salad and fruit bowl",
+    "dinner": "dry fruits bowl with grilled veggies and fruit bowl",
+    "suggestion": "Include more water and physical activity for better results with weight gain."
+  },
+  {
+    "goal": "weight gain",
+    "allergy": "none",
+    "preference": "junk food",
+    "breakfast": "banana shake with air-fried fries",
+    "lunch": "banana shake + mixed salad and air-fried fries",
+    "dinner": "dry fruits bowl with grilled veggies and air-fried fries",
+    "suggestion": "Include more water and physical activity for better results with weight gain."
+  },
+  {
+    "goal": "weight gain",
+    "allergy": "none",
+    "preference": "salads",
+    "breakfast": "avocados with greek salad",
+    "lunch": "cheese sandwich + mixed salad and greek salad",
+    "dinner": "dry fruits bowl with grilled veggies and greek salad",
+    "suggestion": "Include more water and physical activity for better results with weight gain."
+  },
+  {
+    "goal": "weight gain",
+    "allergy": "none",
+    "preference": "spicy",
+    "breakfast": "cheese sandwich with pepper tofu",
+    "lunch": "dry fruits + mixed salad and pepper tofu",
+    "dinner": "dry fruits bowl with grilled veggies and pepper tofu",
+    "suggestion": "Include more water and physical activity for better results with weight gain."
+  },
+  {
+    "goal": "weight gain",
+    "allergy": "none",
+    "preference": "sweet",
+    "breakfast": "banana shake with fruit yogurt",
+    "lunch": "banana shake + mixed salad and fruit yogurt",
+    "dinner": "cheese sandwich bowl with grilled veggies and fruit yogurt",
+    "suggestion": "Include more water and physical activity for better results with weight gain."
+  },
+  {
+    "goal": "weight gain",
+    "allergy": "none",
+    "preference": "oily",
+    "breakfast": "banana shake with olive oil stir-fry",
+    "lunch": "cheese sandwich + mixed salad and olive oil stir-fry",
+    "dinner": "cheese sandwich bowl with grilled veggies and olive oil stir-fry",
+    "suggestion": "Include more water and physical activity for better results with weight gain."
+  },
+  {
+    "goal": "weight gain",
+    "allergy": "dairy",
+    "preference": "vegetarian",
+    "breakfast": "banana shake with fruit salad",
+    "lunch": "dry fruits + mixed salad and fruit salad",
+    "dinner": "avocados bowl with grilled veggies and fruit salad",
+    "suggestion": "Include more water and physical activity for better results with weight gain."
+  },
+  {
+    "goal": "weight gain",
+    "allergy": "dairy",
+    "preference": "fruits",
+    "breakfast": "dry fruits with apple slices",
+    "lunch": "avocados + mixed salad and apple slices",
+    "dinner": "banana shake bowl with grilled veggies and apple slices",
+    "suggestion": "Include more water and physical activity for better results with weight gain."
+  },
+  {
+    "goal": "weight gain",
+    "allergy": "dairy",
+    "preference": "junk food",
+    "breakfast": "dry fruits with air-fried fries",
+    "lunch": "dry fruits + mixed salad and air-fried fries",
+    "dinner": "avocados bowl with grilled veggies and air-fried fries",
+    "suggestion": "Include more water and physical activity for better results with weight gain."
+  },
+  {
+    "goal": "weight gain",
+    "allergy": "dairy",
+    "preference": "salads",
+    "breakfast": "banana shake with chickpea salad",
+    "lunch": "banana shake + mixed salad and chickpea salad",
+    "dinner": "avocados bowl with grilled veggies and chickpea salad",
+    "suggestion": "Include more water and physical activity for better results with weight gain."
+  },
+  {
+    "goal": "weight gain",
+    "allergy": "dairy",
+    "preference": "spicy",
+    "breakfast": "banana shake with masala oats",
+    "lunch": "avocados + mixed salad and masala oats",
+    "dinner": "avocados bowl with grilled veggies and masala oats",
+    "suggestion": "Include more water and physical activity for better results with weight gain."
+  },
+  {
+    "goal": "weight gain",
+    "allergy": "dairy",
+    "preference": "sweet",
+    "breakfast": "dry fruits with honey oats",
+    "lunch": "dry fruits + mixed salad and honey oats",
+    "dinner": "banana shake bowl with grilled veggies and honey oats",
+    "suggestion": "Include more water and physical activity for better results with weight gain."
+  },
+  {
+    "goal": "weight gain",
+    "allergy": "dairy",
+    "preference": "oily",
+    "breakfast": "dry fruits with air-fried samosa",
+    "lunch": "dry fruits + mixed salad and air-fried samosa",
+    "dinner": "dry fruits bowl with grilled veggies and air-fried samosa",
+    "suggestion": "Include more water and physical activity for better results with weight gain."
+  },
+  {
+    "goal": "weight gain",
+    "allergy": "nuts",
+    "preference": "vegetarian",
+    "breakfast": "dry fruits with fruit salad",
+    "lunch": "cheese sandwich + mixed salad and fruit salad",
+    "dinner": "banana shake bowl with grilled veggies and fruit salad",
+    "suggestion": "Include more water and physical activity for better results with weight gain."
+  },
+  {
+    "goal": "weight gain",
+    "allergy": "nuts",
+    "preference": "fruits",
+    "breakfast": "dry fruits with banana pancakes",
+    "lunch": "cheese sandwich + mixed salad and banana pancakes",
+    "dinner": "avocados bowl with grilled veggies and banana pancakes",
+    "suggestion": "Include more water and physical activity for better results with weight gain."
+  },
+  {
+    "goal": "weight gain",
+    "allergy": "nuts",
+    "preference": "junk food",
+    "breakfast": "dry fruits with healthy burger",
+    "lunch": "cheese sandwich + mixed salad and healthy burger",
+    "dinner": "banana shake bowl with grilled veggies and healthy burger",
+    "suggestion": "Include more water and physical activity for better results with weight gain."
+  },
+  {
+    "goal": "weight gain",
+    "allergy": "nuts",
+    "preference": "salads",
+    "breakfast": "cheese sandwich with kale salad",
+    "lunch": "dry fruits + mixed salad and kale salad",
+    "dinner": "cheese sandwich bowl with grilled veggies and kale salad",
+    "suggestion": "Include more water and physical activity for better results with weight gain."
+  },
+  {
+    "goal": "weight gain",
+    "allergy": "nuts",
+    "preference": "spicy",
+    "breakfast": "banana shake with spicy lentils",
+    "lunch": "dry fruits + mixed salad and spicy lentils",
+    "dinner": "dry fruits bowl with grilled veggies and spicy lentils",
+    "suggestion": "Include more water and physical activity for better results with weight gain."
+  },
+  {
+    "goal": "weight gain",
+    "allergy": "nuts",
+    "preference": "sweet",
+    "breakfast": "avocados with fruit yogurt",
+    "lunch": "dry fruits + mixed salad and fruit yogurt",
+    "dinner": "banana shake bowl with grilled veggies and fruit yogurt",
+    "suggestion": "Include more water and physical activity for better results with weight gain."
+  },
+  {
+    "goal": "weight gain",
+    "allergy": "nuts",
+    "preference": "oily",
+    "breakfast": "dry fruits with air-fried samosa",
+    "lunch": "avocados + mixed salad and air-fried samosa",
+    "dinner": "cheese sandwich bowl with grilled veggies and air-fried samosa",
+    "suggestion": "Include more water and physical activity for better results with weight gain."
+  },
+  {
+    "goal": "weight gain",
+    "allergy": "gluten",
+    "preference": "vegetarian",
+    "breakfast": "banana shake with methi paratha",
+    "lunch": "cheese sandwich + mixed salad and methi paratha",
+    "dinner": "dry fruits bowl with grilled veggies and methi paratha",
+    "suggestion": "Include more water and physical activity for better results with weight gain."
+  },
+  {
+    "goal": "weight gain",
+    "allergy": "gluten",
+    "preference": "fruits",
+    "breakfast": "cheese sandwich with apple slices",
+    "lunch": "dry fruits + mixed salad and apple slices",
+    "dinner": "avocados bowl with grilled veggies and apple slices",
+    "suggestion": "Include more water and physical activity for better results with weight gain."
+  },
+  {
+    "goal": "weight gain",
+    "allergy": "gluten",
+    "preference": "junk food",
+    "breakfast": "dry fruits with healthy burger",
+    "lunch": "cheese sandwich + mixed salad and healthy burger",
+    "dinner": "banana shake bowl with grilled veggies and healthy burger",
+    "suggestion": "Include more water and physical activity for better results with weight gain."
+  },
+  {
+    "goal": "weight gain",
+    "allergy": "gluten",
+    "preference": "salads",
+    "breakfast": "cheese sandwich with kale salad",
+    "lunch": "cheese sandwich + mixed salad and kale salad",
+    "dinner": "avocados bowl with grilled veggies and kale salad",
+    "suggestion": "Include more water and physical activity for better results with weight gain."
+  },
+  {
+    "goal": "weight gain",
+    "allergy": "gluten",
+    "preference": "spicy",
+    "breakfast": "avocados with pepper tofu",
+    "lunch": "cheese sandwich + mixed salad and pepper tofu",
+    "dinner": "banana shake bowl with grilled veggies and pepper tofu",
+    "suggestion": "Include more water and physical activity for better results with weight gain."
+  },
+  {
+    "goal": "weight gain",
+    "allergy": "gluten",
+    "preference": "sweet",
+    "breakfast": "avocados with sweet corn salad",
+    "lunch": "cheese sandwich + mixed salad and sweet corn salad",
+    "dinner": "dry fruits bowl with grilled veggies and sweet corn salad",
+    "suggestion": "Include more water and physical activity for better results with weight gain."
+  },
+  {
+    "goal": "weight gain",
+    "allergy": "gluten",
+    "preference": "oily",
+    "breakfast": "banana shake with olive oil stir-fry",
+    "lunch": "dry fruits + mixed salad and olive oil stir-fry",
+    "dinner": "cheese sandwich bowl with grilled veggies and olive oil stir-fry",
+    "suggestion": "Include more water and physical activity for better results with weight gain."
+  },
+  {
+    "goal": "weight gain",
+    "allergy": "seafood",
+    "preference": "vegetarian",
+    "breakfast": "cheese sandwich with fruit salad",
+    "lunch": "banana shake + mixed salad and fruit salad",
+    "dinner": "banana shake bowl with grilled veggies and fruit salad",
+    "suggestion": "Include more water and physical activity for better results with weight gain."
+  },
+  {
+    "goal": "weight gain",
+    "allergy": "seafood",
+    "preference": "fruits",
+    "breakfast": "avocados with fruit bowl",
+    "lunch": "avocados + mixed salad and fruit bowl",
+    "dinner": "cheese sandwich bowl with grilled veggies and fruit bowl",
+    "suggestion": "Include more water and physical activity for better results with weight gain."
+  },
+  {
+    "goal": "weight gain",
+    "allergy": "seafood",
+    "preference": "junk food",
+    "breakfast": "banana shake with baked nuggets",
+    "lunch": "dry fruits + mixed salad and baked nuggets",
+    "dinner": "cheese sandwich bowl with grilled veggies and baked nuggets",
+    "suggestion": "Include more water and physical activity for better results with weight gain."
+  },
+  {
+    "goal": "weight gain",
+    "allergy": "seafood",
+    "preference": "salads",
+    "breakfast": "banana shake with chickpea salad",
+    "lunch": "avocados + mixed salad and chickpea salad",
+    "dinner": "cheese sandwich bowl with grilled veggies and chickpea salad",
+    "suggestion": "Include more water and physical activity for better results with weight gain."
+  },
+  {
+    "goal": "weight gain",
+    "allergy": "seafood",
+    "preference": "spicy",
+    "breakfast": "avocados with masala oats",
+    "lunch": "avocados + mixed salad and masala oats",
+    "dinner": "dry fruits bowl with grilled veggies and masala oats",
+    "suggestion": "Include more water and physical activity for better results with weight gain."
+  },
+  {
+    "goal": "weight gain",
+    "allergy": "seafood",
+    "preference": "sweet",
+    "breakfast": "banana shake with fruit yogurt",
+    "lunch": "cheese sandwich + mixed salad and fruit yogurt",
+    "dinner": "avocados bowl with grilled veggies and fruit yogurt",
+    "suggestion": "Include more water and physical activity for better results with weight gain."
+  },
+  {
+    "goal": "weight gain",
+    "allergy": "seafood",
+    "preference": "oily",
+    "breakfast": "cheese sandwich with olive oil stir-fry",
+    "lunch": "banana shake + mixed salad and olive oil stir-fry",
+    "dinner": "cheese sandwich bowl with grilled veggies and olive oil stir-fry",
+    "suggestion": "Include more water and physical activity for better results with weight gain."
+  },
+  {
+    "goal": "weight gain",
+    "allergy": "eggs",
+    "preference": "vegetarian",
+    "breakfast": "cheese sandwich with veggie soup",
+    "lunch": "avocados + mixed salad and veggie soup",
+    "dinner": "avocados bowl with grilled veggies and veggie soup",
+    "suggestion": "Include more water and physical activity for better results with weight gain."
+  },
+  {
+    "goal": "weight gain",
+    "allergy": "eggs",
+    "preference": "fruits",
+    "breakfast": "banana shake with fruit bowl",
+    "lunch": "avocados + mixed salad and fruit bowl",
+    "dinner": "avocados bowl with grilled veggies and fruit bowl",
+    "suggestion": "Include more water and physical activity for better results with weight gain."
+  },
+  {
+    "goal": "weight gain",
+    "allergy": "eggs",
+    "preference": "junk food",
+    "breakfast": "banana shake with healthy burger",
+    "lunch": "avocados + mixed salad and healthy burger",
+    "dinner": "dry fruits bowl with grilled veggies and healthy burger",
+    "suggestion": "Include more water and physical activity for better results with weight gain."
+  },
+  {
+    "goal": "weight gain",
+    "allergy": "eggs",
+    "preference": "salads",
+    "breakfast": "banana shake with kale salad",
+    "lunch": "dry fruits + mixed salad and kale salad",
+    "dinner": "avocados bowl with grilled veggies and kale salad",
+    "suggestion": "Include more water and physical activity for better results with weight gain."
+  },
+  {
+    "goal": "weight gain",
+    "allergy": "eggs",
+    "preference": "spicy",
+    "breakfast": "cheese sandwich with spicy lentils",
+    "lunch": "dry fruits + mixed salad and spicy lentils",
+    "dinner": "cheese sandwich bowl with grilled veggies and spicy lentils",
+    "suggestion": "Include more water and physical activity for better results with weight gain."
+  },
+  {
+    "goal": "weight gain",
+    "allergy": "eggs",
+    "preference": "sweet",
+    "breakfast": "banana shake with fruit yogurt",
+    "lunch": "dry fruits + mixed salad and fruit yogurt",
+    "dinner": "cheese sandwich bowl with grilled veggies and fruit yogurt",
+    "suggestion": "Include more water and physical activity for better results with weight gain."
+  },
+  {
+    "goal": "weight gain",
+    "allergy": "eggs",
+    "preference": "oily",
+    "breakfast": "banana shake with olive oil stir-fry",
+    "lunch": "dry fruits + mixed salad and olive oil stir-fry",
+    "dinner": "banana shake bowl with grilled veggies and olive oil stir-fry",
+    "suggestion": "Include more water and physical activity for better results with weight gain."
+  },
+  {
+    "goal": "weight loss",
+    "allergy": "none",
+    "preference": "vegetarian",
+    "breakfast": "smoothie bowl with veggie soup",
+    "lunch": "smoothie bowl + mixed salad and veggie soup",
+    "dinner": "broccoli bowl with grilled veggies and veggie soup",
+    "suggestion": "Include more water and physical activity for better results with weight loss."
+  },
+  {
+    "goal": "weight loss",
+    "allergy": "none",
+    "preference": "fruits",
+    "breakfast": "tofu stir-fry with banana pancakes",
+    "lunch": "smoothie bowl + mixed salad and banana pancakes",
+    "dinner": "broccoli bowl with grilled veggies and banana pancakes",
+    "suggestion": "Include more water and physical activity for better results with weight loss."
+  },
+  {
+    "goal": "weight loss",
+    "allergy": "none",
+    "preference": "junk food",
+    "breakfast": "quinoa salad with healthy burger",
+    "lunch": "broccoli + mixed salad and healthy burger",
+    "dinner": "quinoa salad bowl with grilled veggies and healthy burger",
+    "suggestion": "Include more water and physical activity for better results with weight loss."
+  },
+  {
+    "goal": "weight loss",
+    "allergy": "none",
+    "preference": "salads",
+    "breakfast": "tofu stir-fry with chickpea salad",
+    "lunch": "quinoa salad + mixed salad and chickpea salad",
+    "dinner": "tofu stir-fry bowl with grilled veggies and chickpea salad",
+    "suggestion": "Include more water and physical activity for better results with weight loss."
+  },
+  {
+    "goal": "weight loss",
+    "allergy": "none",
+    "preference": "spicy",
+    "breakfast": "broccoli with masala oats",
+    "lunch": "tofu stir-fry + mixed salad and masala oats",
+    "dinner": "quinoa salad bowl with grilled veggies and masala oats",
+    "suggestion": "Include more water and physical activity for better results with weight loss."
+  },
+  {
+    "goal": "weight loss",
+    "allergy": "none",
+    "preference": "sweet",
+    "breakfast": "broccoli with sweet corn salad",
+    "lunch": "broccoli + mixed salad and sweet corn salad",
+    "dinner": "tofu stir-fry bowl with grilled veggies and sweet corn salad",
+    "suggestion": "Include more water and physical activity for better results with weight loss."
+  },
+  {
+    "goal": "weight loss",
+    "allergy": "none",
+    "preference": "oily",
+    "breakfast": "tofu stir-fry with olive oil stir-fry",
+    "lunch": "broccoli + mixed salad and olive oil stir-fry",
+    "dinner": "quinoa salad bowl with grilled veggies and olive oil stir-fry",
+    "suggestion": "Include more water and physical activity for better results with weight loss."
+  },
+  {
+    "goal": "weight loss",
+    "allergy": "dairy",
+    "preference": "vegetarian",
+    "breakfast": "quinoa salad with veggie soup",
+    "lunch": "tofu stir-fry + mixed salad and veggie soup",
+    "dinner": "tofu stir-fry bowl with grilled veggies and veggie soup",
+    "suggestion": "Include more water and physical activity for better results with weight loss."
+  },
+  {
+    "goal": "weight loss",
+    "allergy": "dairy",
+    "preference": "fruits",
+    "breakfast": "tofu stir-fry with apple slices",
+    "lunch": "broccoli + mixed salad and apple slices",
+    "dinner": "quinoa salad bowl with grilled veggies and apple slices",
+    "suggestion": "Include more water and physical activity for better results with weight loss."
+  },
+  {
+    "goal": "weight loss",
+    "allergy": "dairy",
+    "preference": "junk food",
+    "breakfast": "quinoa salad with baked nuggets",
+    "lunch": "broccoli + mixed salad and baked nuggets",
+    "dinner": "smoothie bowl bowl with grilled veggies and baked nuggets",
+    "suggestion": "Include more water and physical activity for better results with weight loss."
+  },
+  {
+    "goal": "weight loss",
+    "allergy": "dairy",
+    "preference": "salads",
+    "breakfast": "quinoa salad with greek salad",
+    "lunch": "tofu stir-fry + mixed salad and greek salad",
+    "dinner": "quinoa salad bowl with grilled veggies and greek salad",
+    "suggestion": "Include more water and physical activity for better results with weight loss."
+  },
+  {
+    "goal": "weight loss",
+    "allergy": "dairy",
+    "preference": "spicy",
+    "breakfast": "quinoa salad with spicy lentils",
+    "lunch": "smoothie bowl + mixed salad and spicy lentils",
+    "dinner": "tofu stir-fry bowl with grilled veggies and spicy lentils",
+    "suggestion": "Include more water and physical activity for better results with weight loss."
+  },
+  {
+    "goal": "weight loss",
+    "allergy": "dairy",
+    "preference": "sweet",
+    "breakfast": "tofu stir-fry with honey oats",
+    "lunch": "smoothie bowl + mixed salad and honey oats",
+    "dinner": "broccoli bowl with grilled veggies and honey oats",
+    "suggestion": "Include more water and physical activity for better results with weight loss."
+  },
+  {
+    "goal": "weight loss",
+    "allergy": "dairy",
+    "preference": "oily",
+    "breakfast": "broccoli with grilled sandwich",
+    "lunch": "tofu stir-fry + mixed salad and grilled sandwich",
+    "dinner": "tofu stir-fry bowl with grilled veggies and grilled sandwich",
+    "suggestion": "Include more water and physical activity for better results with weight loss."
+  },
+  {
+    "goal": "weight loss",
+    "allergy": "nuts",
+    "preference": "vegetarian",
+    "breakfast": "broccoli with fruit salad",
+    "lunch": "smoothie bowl + mixed salad and fruit salad",
+    "dinner": "smoothie bowl bowl with grilled veggies and fruit salad",
+    "suggestion": "Include more water and physical activity for better results with weight loss."
+  },
+  {
+    "goal": "weight loss",
+    "allergy": "nuts",
+    "preference": "fruits",
+    "breakfast": "tofu stir-fry with banana pancakes",
+    "lunch": "quinoa salad + mixed salad and banana pancakes",
+    "dinner": "smoothie bowl bowl with grilled veggies and banana pancakes",
+    "suggestion": "Include more water and physical activity for better results with weight loss."
+  },
+  {
+    "goal": "weight loss",
+    "allergy": "nuts",
+    "preference": "junk food",
+    "breakfast": "smoothie bowl with baked nuggets",
+    "lunch": "tofu stir-fry + mixed salad and baked nuggets",
+    "dinner": "broccoli bowl with grilled veggies and baked nuggets",
+    "suggestion": "Include more water and physical activity for better results with weight loss."
+  },
+  {
+    "goal": "weight loss",
+    "allergy": "nuts",
+    "preference": "salads",
+    "breakfast": "smoothie bowl with greek salad",
+    "lunch": "broccoli + mixed salad and greek salad",
+    "dinner": "smoothie bowl bowl with grilled veggies and greek salad",
+    "suggestion": "Include more water and physical activity for better results with weight loss."
+  },
+  {
+    "goal": "weight loss",
+    "allergy": "nuts",
+    "preference": "spicy",
+    "breakfast": "quinoa salad with spicy lentils",
+    "lunch": "smoothie bowl + mixed salad and spicy lentils",
+    "dinner": "broccoli bowl with grilled veggies and spicy lentils",
+    "suggestion": "Include more water and physical activity for better results with weight loss."
+  },
+  {
+    "goal": "weight loss",
+    "allergy": "nuts",
+    "preference": "sweet",
+    "breakfast": "tofu stir-fry with fruit yogurt",
+    "lunch": "smoothie bowl + mixed salad and fruit yogurt",
+    "dinner": "broccoli bowl with grilled veggies and fruit yogurt",
+    "suggestion": "Include more water and physical activity for better results with weight loss."
+  },
+  {
+    "goal": "weight loss",
+    "allergy": "nuts",
+    "preference": "oily",
+    "breakfast": "smoothie bowl with olive oil stir-fry",
+    "lunch": "broccoli + mixed salad and olive oil stir-fry",
+    "dinner": "smoothie bowl bowl with grilled veggies and olive oil stir-fry",
+    "suggestion": "Include more water and physical activity for better results with weight loss."
+  },
+  {
+    "goal": "weight loss",
+    "allergy": "gluten",
+    "preference": "vegetarian",
+    "breakfast": "broccoli with fruit salad",
+    "lunch": "quinoa salad + mixed salad and fruit salad",
+    "dinner": "broccoli bowl with grilled veggies and fruit salad",
+    "suggestion": "Include more water and physical activity for better results with weight loss."
+  },
+  {
+    "goal": "weight loss",
+    "allergy": "gluten",
+    "preference": "fruits",
+    "breakfast": "broccoli with fruit bowl",
+    "lunch": "quinoa salad + mixed salad and fruit bowl",
+    "dinner": "tofu stir-fry bowl with grilled veggies and fruit bowl",
+    "suggestion": "Include more water and physical activity for better results with weight loss."
+  },
+  {
+    "goal": "weight loss",
+    "allergy": "gluten",
+    "preference": "junk food",
+    "breakfast": "tofu stir-fry with healthy burger",
+    "lunch": "smoothie bowl + mixed salad and healthy burger",
+    "dinner": "quinoa salad bowl with grilled veggies and healthy burger",
+    "suggestion": "Include more water and physical activity for better results with weight loss."
+  },
+  {
+    "goal": "weight loss",
+    "allergy": "gluten",
+    "preference": "salads",
+    "breakfast": "smoothie bowl with greek salad",
+    "lunch": "broccoli + mixed salad and greek salad",
+    "dinner": "smoothie bowl bowl with grilled veggies and greek salad",
+    "suggestion": "Include more water and physical activity for better results with weight loss."
+  },
+  {
+    "goal": "weight loss",
+    "allergy": "gluten",
+    "preference": "spicy",
+    "breakfast": "quinoa salad with pepper tofu",
+    "lunch": "smoothie bowl + mixed salad and pepper tofu",
+    "dinner": "smoothie bowl bowl with grilled veggies and pepper tofu",
+    "suggestion": "Include more water and physical activity for better results with weight loss."
+  },
+  {
+    "goal": "weight loss",
+    "allergy": "gluten",
+    "preference": "sweet",
+    "breakfast": "broccoli with sweet corn salad",
+    "lunch": "quinoa salad + mixed salad and sweet corn salad",
+    "dinner": "smoothie bowl bowl with grilled veggies and sweet corn salad",
+    "suggestion": "Include more water and physical activity for better results with weight loss."
+  },
+  {
+    "goal": "weight loss",
+    "allergy": "gluten",
+    "preference": "oily",
+    "breakfast": "broccoli with grilled sandwich",
+    "lunch": "quinoa salad + mixed salad and grilled sandwich",
+    "dinner": "tofu stir-fry bowl with grilled veggies and grilled sandwich",
+    "suggestion": "Include more water and physical activity for better results with weight loss."
+  },
+  {
+    "goal": "weight loss",
+    "allergy": "seafood",
+    "preference": "vegetarian",
+    "breakfast": "smoothie bowl with methi paratha",
+    "lunch": "tofu stir-fry + mixed salad and methi paratha",
+    "dinner": "broccoli bowl with grilled veggies and methi paratha",
+    "suggestion": "Include more water and physical activity for better results with weight loss."
+  },
+  {
+    "goal": "weight loss",
+    "allergy": "seafood",
+    "preference": "fruits",
+    "breakfast": "broccoli with banana pancakes",
+    "lunch": "smoothie bowl + mixed salad and banana pancakes",
+    "dinner": "smoothie bowl bowl with grilled veggies and banana pancakes",
+    "suggestion": "Include more water and physical activity for better results with weight loss."
+  },
+  {
+    "goal": "weight loss",
+    "allergy": "seafood",
+    "preference": "junk food",
+    "breakfast": "smoothie bowl with healthy burger",
+    "lunch": "smoothie bowl + mixed salad and healthy burger",
+    "dinner": "tofu stir-fry bowl with grilled veggies and healthy burger",
+    "suggestion": "Include more water and physical activity for better results with weight loss."
+  },
+  {
+    "goal": "weight loss",
+    "allergy": "seafood",
+    "preference": "salads",
+    "breakfast": "smoothie bowl with kale salad",
+    "lunch": "tofu stir-fry + mixed salad and kale salad",
+    "dinner": "smoothie bowl bowl with grilled veggies and kale salad",
+    "suggestion": "Include more water and physical activity for better results with weight loss."
+  },
+  {
+    "goal": "weight loss",
+    "allergy": "seafood",
+    "preference": "spicy",
+    "breakfast": "tofu stir-fry with pepper tofu",
+    "lunch": "smoothie bowl + mixed salad and pepper tofu",
+    "dinner": "quinoa salad bowl with grilled veggies and pepper tofu",
+    "suggestion": "Include more water and physical activity for better results with weight loss."
+  },
+  {
+    "goal": "weight loss",
+    "allergy": "seafood",
+    "preference": "sweet",
+    "breakfast": "smoothie bowl with honey oats",
+    "lunch": "broccoli + mixed salad and honey oats",
+    "dinner": "broccoli bowl with grilled veggies and honey oats",
+    "suggestion": "Include more water and physical activity for better results with weight loss."
+  },
+  {
+    "goal": "weight loss",
+    "allergy": "seafood",
+    "preference": "oily",
+    "breakfast": "quinoa salad with grilled sandwich",
+    "lunch": "broccoli + mixed salad and grilled sandwich",
+    "dinner": "broccoli bowl with grilled veggies and grilled sandwich",
+    "suggestion": "Include more water and physical activity for better results with weight loss."
+  },
+  {
+    "goal": "weight loss",
+    "allergy": "eggs",
+    "preference": "vegetarian",
+    "breakfast": "tofu stir-fry with methi paratha",
+    "lunch": "smoothie bowl + mixed salad and methi paratha",
+    "dinner": "tofu stir-fry bowl with grilled veggies and methi paratha",
+    "suggestion": "Include more water and physical activity for better results with weight loss."
+  },
+  {
+    "goal": "weight loss",
+    "allergy": "eggs",
+    "preference": "fruits",
+    "breakfast": "broccoli with fruit bowl",
+    "lunch": "tofu stir-fry + mixed salad and fruit bowl",
+    "dinner": "broccoli bowl with grilled veggies and fruit bowl",
+    "suggestion": "Include more water and physical activity for better results with weight loss."
+  },
+  {
+    "goal": "weight loss",
+    "allergy": "eggs",
+    "preference": "junk food",
+    "breakfast": "quinoa salad with air-fried fries",
+    "lunch": "broccoli + mixed salad and air-fried fries",
+    "dinner": "quinoa salad bowl with grilled veggies and air-fried fries",
+    "suggestion": "Include more water and physical activity for better results with weight loss."
+  },
+  {
+    "goal": "weight loss",
+    "allergy": "eggs",
+    "preference": "salads",
+    "breakfast": "broccoli with kale salad",
+    "lunch": "tofu stir-fry + mixed salad and kale salad",
+    "dinner": "smoothie bowl bowl with grilled veggies and kale salad",
+    "suggestion": "Include more water and physical activity for better results with weight loss."
+  },
+  {
+    "goal": "weight loss",
+    "allergy": "eggs",
+    "preference": "spicy",
+    "breakfast": "smoothie bowl with pepper tofu",
+    "lunch": "tofu stir-fry + mixed salad and pepper tofu",
+    "dinner": "quinoa salad bowl with grilled veggies and pepper tofu",
+    "suggestion": "Include more water and physical activity for better results with weight loss."
+  },
+  {
+    "goal": "weight loss",
+    "allergy": "eggs",
+    "preference": "sweet",
+    "breakfast": "broccoli with honey oats",
+    "lunch": "quinoa salad + mixed salad and honey oats",
+    "dinner": "broccoli bowl with grilled veggies and honey oats",
+    "suggestion": "Include more water and physical activity for better results with weight loss."
+  },
+  {
+    "goal": "weight loss",
+    "allergy": "eggs",
+    "preference": "oily",
+    "breakfast": "quinoa salad with grilled sandwich",
+    "lunch": "smoothie bowl + mixed salad and grilled sandwich",
+    "dinner": "broccoli bowl with grilled veggies and grilled sandwich",
+    "suggestion": "Include more water and physical activity for better results with weight loss."
+  },
+  {
+    "goal": "reduce fat",
+    "allergy": "none",
+    "preference": "vegetarian",
+    "breakfast": "brown rice with methi paratha",
+    "lunch": "zucchini noodles + mixed salad and methi paratha",
+    "dinner": "brown rice bowl with grilled veggies and methi paratha",
+    "suggestion": "Include more water and physical activity for better results with reduce fat."
+  },
+  {
+    "goal": "reduce fat",
+    "allergy": "none",
+    "preference": "fruits",
+    "breakfast": "grilled fish with fruit bowl",
+    "lunch": "grilled fish + mixed salad and fruit bowl",
+    "dinner": "grilled fish bowl with grilled veggies and fruit bowl",
+    "suggestion": "Include more water and physical activity for better results with reduce fat."
+  },
+  {
+    "goal": "reduce fat",
+    "allergy": "none",
+    "preference": "junk food",
+    "breakfast": "green tea with baked nuggets",
+    "lunch": "grilled fish + mixed salad and baked nuggets",
+    "dinner": "zucchini noodles bowl with grilled veggies and baked nuggets",
+    "suggestion": "Include more water and physical activity for better results with reduce fat."
+  },
+  {
+    "goal": "reduce fat",
+    "allergy": "none",
+    "preference": "salads",
+    "breakfast": "grilled fish with kale salad",
+    "lunch": "zucchini noodles + mixed salad and kale salad",
+    "dinner": "grilled fish bowl with grilled veggies and kale salad",
+    "suggestion": "Include more water and physical activity for better results with reduce fat."
+  },
+  {
+    "goal": "reduce fat",
+    "allergy": "none",
+    "preference": "spicy",
+    "breakfast": "green tea with spicy lentils",
+    "lunch": "zucchini noodles + mixed salad and spicy lentils",
+    "dinner": "grilled fish bowl with grilled veggies and spicy lentils",
+    "suggestion": "Include more water and physical activity for better results with reduce fat."
+  },
+  {
+    "goal": "reduce fat",
+    "allergy": "none",
+    "preference": "sweet",
+    "breakfast": "zucchini noodles with honey oats",
+    "lunch": "zucchini noodles + mixed salad and honey oats",
+    "dinner": "zucchini noodles bowl with grilled veggies and honey oats",
+    "suggestion": "Include more water and physical activity for better results with reduce fat."
+  },
+  {
+    "goal": "reduce fat",
+    "allergy": "none",
+    "preference": "oily",
+    "breakfast": "zucchini noodles with air-fried samosa",
+    "lunch": "green tea + mixed salad and air-fried samosa",
+    "dinner": "zucchini noodles bowl with grilled veggies and air-fried samosa",
+    "suggestion": "Include more water and physical activity for better results with reduce fat."
+  },
+  {
+    "goal": "reduce fat",
+    "allergy": "dairy",
+    "preference": "vegetarian",
+    "breakfast": "zucchini noodles with methi paratha",
+    "lunch": "brown rice + mixed salad and methi paratha",
+    "dinner": "brown rice bowl with grilled veggies and methi paratha",
+    "suggestion": "Include more water and physical activity for better results with reduce fat."
+  },
+  {
+    "goal": "reduce fat",
+    "allergy": "dairy",
+    "preference": "fruits",
+    "breakfast": "brown rice with apple slices",
+    "lunch": "zucchini noodles + mixed salad and apple slices",
+    "dinner": "zucchini noodles bowl with grilled veggies and apple slices",
+    "suggestion": "Include more water and physical activity for better results with reduce fat."
+  },
+  {
+    "goal": "reduce fat",
+    "allergy": "dairy",
+    "preference": "junk food",
+    "breakfast": "brown rice with air-fried fries",
+    "lunch": "brown rice + mixed salad and air-fried fries",
+    "dinner": "green tea bowl with grilled veggies and air-fried fries",
+    "suggestion": "Include more water and physical activity for better results with reduce fat."
+  },
+  {
+    "goal": "reduce fat",
+    "allergy": "dairy",
+    "preference": "salads",
+    "breakfast": "green tea with chickpea salad",
+    "lunch": "zucchini noodles + mixed salad and chickpea salad",
+    "dinner": "brown rice bowl with grilled veggies and chickpea salad",
+    "suggestion": "Include more water and physical activity for better results with reduce fat."
+  },
+  {
+    "goal": "reduce fat",
+    "allergy": "dairy",
+    "preference": "spicy",
+    "breakfast": "brown rice with spicy lentils",
+    "lunch": "green tea + mixed salad and spicy lentils",
+    "dinner": "brown rice bowl with grilled veggies and spicy lentils",
+    "suggestion": "Include more water and physical activity for better results with reduce fat."
+  },
+  {
+    "goal": "reduce fat",
+    "allergy": "dairy",
+    "preference": "sweet",
+    "breakfast": "brown rice with sweet corn salad",
+    "lunch": "zucchini noodles + mixed salad and sweet corn salad",
+    "dinner": "brown rice bowl with grilled veggies and sweet corn salad",
+    "suggestion": "Include more water and physical activity for better results with reduce fat."
+  },
+  {
+    "goal": "reduce fat",
+    "allergy": "dairy",
+    "preference": "oily",
+    "breakfast": "zucchini noodles with grilled sandwich",
+    "lunch": "grilled fish + mixed salad and grilled sandwich",
+    "dinner": "brown rice bowl with grilled veggies and grilled sandwich",
+    "suggestion": "Include more water and physical activity for better results with reduce fat."
+  },
+  {
+    "goal": "reduce fat",
+    "allergy": "nuts",
+    "preference": "vegetarian",
+    "breakfast": "grilled fish with methi paratha",
+    "lunch": "zucchini noodles + mixed salad and methi paratha",
+    "dinner": "brown rice bowl with grilled veggies and methi paratha",
+    "suggestion": "Include more water and physical activity for better results with reduce fat."
+  },
+  {
+    "goal": "reduce fat",
+    "allergy": "nuts",
+    "preference": "fruits",
+    "breakfast": "grilled fish with apple slices",
+    "lunch": "brown rice + mixed salad and apple slices",
+    "dinner": "zucchini noodles bowl with grilled veggies and apple slices",
+    "suggestion": "Include more water and physical activity for better results with reduce fat."
+  },
+  {
+    "goal": "reduce fat",
+    "allergy": "nuts",
+    "preference": "junk food",
+    "breakfast": "grilled fish with healthy burger",
+    "lunch": "grilled fish + mixed salad and healthy burger",
+    "dinner": "grilled fish bowl with grilled veggies and healthy burger",
+    "suggestion": "Include more water and physical activity for better results with reduce fat."
+  },
+  {
+    "goal": "reduce fat",
+    "allergy": "nuts",
+    "preference": "salads",
+    "breakfast": "green tea with greek salad",
+    "lunch": "zucchini noodles + mixed salad and greek salad",
+    "dinner": "brown rice bowl with grilled veggies and greek salad",
+    "suggestion": "Include more water and physical activity for better results with reduce fat."
+  },
+  {
+    "goal": "reduce fat",
+    "allergy": "nuts",
+    "preference": "spicy",
+    "breakfast": "green tea with masala oats",
+    "lunch": "zucchini noodles + mixed salad and masala oats",
+    "dinner": "green tea bowl with grilled veggies and masala oats",
+    "suggestion": "Include more water and physical activity for better results with reduce fat."
+  },
+  {
+    "goal": "reduce fat",
+    "allergy": "nuts",
+    "preference": "sweet",
+    "breakfast": "zucchini noodles with sweet corn salad",
+    "lunch": "green tea + mixed salad and sweet corn salad",
+    "dinner": "brown rice bowl with grilled veggies and sweet corn salad",
+    "suggestion": "Include more water and physical activity for better results with reduce fat."
+  },
+  {
+    "goal": "reduce fat",
+    "allergy": "nuts",
+    "preference": "oily",
+    "breakfast": "green tea with air-fried samosa",
+    "lunch": "grilled fish + mixed salad and air-fried samosa",
+    "dinner": "brown rice bowl with grilled veggies and air-fried samosa",
+    "suggestion": "Include more water and physical activity for better results with reduce fat."
+  },
+  {
+    "goal": "reduce fat",
+    "allergy": "gluten",
+    "preference": "vegetarian",
+    "breakfast": "green tea with veggie soup",
+    "lunch": "zucchini noodles + mixed salad and veggie soup",
+    "dinner": "grilled fish bowl with grilled veggies and veggie soup",
+    "suggestion": "Include more water and physical activity for better results with reduce fat."
+  },
+  {
+    "goal": "reduce fat",
+    "allergy": "gluten",
+    "preference": "fruits",
+    "breakfast": "zucchini noodles with fruit bowl",
+    "lunch": "grilled fish + mixed salad and fruit bowl",
+    "dinner": "green tea bowl with grilled veggies and fruit bowl",
+    "suggestion": "Include more water and physical activity for better results with reduce fat."
+  },
+  {
+    "goal": "reduce fat",
+    "allergy": "gluten",
+    "preference": "junk food",
+    "breakfast": "zucchini noodles with healthy burger",
+    "lunch": "brown rice + mixed salad and healthy burger",
+    "dinner": "grilled fish bowl with grilled veggies and healthy burger",
+    "suggestion": "Include more water and physical activity for better results with reduce fat."
+  },
+  {
+    "goal": "reduce fat",
+    "allergy": "gluten",
+    "preference": "salads",
+    "breakfast": "grilled fish with kale salad",
+    "lunch": "zucchini noodles + mixed salad and kale salad",
+    "dinner": "green tea bowl with grilled veggies and kale salad",
+    "suggestion": "Include more water and physical activity for better results with reduce fat."
+  },
+  {
+    "goal": "reduce fat",
+    "allergy": "gluten",
+    "preference": "spicy",
+    "breakfast": "green tea with pepper tofu",
+    "lunch": "grilled fish + mixed salad and pepper tofu",
+    "dinner": "grilled fish bowl with grilled veggies and pepper tofu",
+    "suggestion": "Include more water and physical activity for better results with reduce fat."
+  },
+  {
+    "goal": "reduce fat",
+    "allergy": "gluten",
+    "preference": "sweet",
+    "breakfast": "zucchini noodles with sweet corn salad",
+    "lunch": "green tea + mixed salad and sweet corn salad",
+    "dinner": "zucchini noodles bowl with grilled veggies and sweet corn salad",
+    "suggestion": "Include more water and physical activity for better results with reduce fat."
+  },
+  {
+    "goal": "reduce fat",
+    "allergy": "gluten",
+    "preference": "oily",
+    "breakfast": "zucchini noodles with grilled sandwich",
+    "lunch": "green tea + mixed salad and grilled sandwich",
+    "dinner": "zucchini noodles bowl with grilled veggies and grilled sandwich",
+    "suggestion": "Include more water and physical activity for better results with reduce fat."
+  },
+  {
+    "goal": "reduce fat",
+    "allergy": "seafood",
+    "preference": "vegetarian",
+    "breakfast": "brown rice with methi paratha",
+    "lunch": "green tea + mixed salad and methi paratha",
+    "dinner": "zucchini noodles bowl with grilled veggies and methi paratha",
+    "suggestion": "Include more water and physical activity for better results with reduce fat."
+  },
+  {
+    "goal": "reduce fat",
+    "allergy": "seafood",
+    "preference": "fruits",
+    "breakfast": "green tea with banana pancakes",
+    "lunch": "zucchini noodles + mixed salad and banana pancakes",
+    "dinner": "green tea bowl with grilled veggies and banana pancakes",
+    "suggestion": "Include more water and physical activity for better results with reduce fat."
+  },
+  {
+    "goal": "reduce fat",
+    "allergy": "seafood",
+    "preference": "junk food",
+    "breakfast": "zucchini noodles with healthy burger",
+    "lunch": "zucchini noodles + mixed salad and healthy burger",
+    "dinner": "brown rice bowl with grilled veggies and healthy burger",
+    "suggestion": "Include more water and physical activity for better results with reduce fat."
+  },
+  {
+    "goal": "reduce fat",
+    "allergy": "seafood",
+    "preference": "salads",
+    "breakfast": "brown rice with greek salad",
+    "lunch": "zucchini noodles + mixed salad and greek salad",
+    "dinner": "zucchini noodles bowl with grilled veggies and greek salad",
+    "suggestion": "Include more water and physical activity for better results with reduce fat."
+  },
+  {
+    "goal": "reduce fat",
+    "allergy": "seafood",
+    "preference": "spicy",
+    "breakfast": "brown rice with masala oats",
+    "lunch": "green tea + mixed salad and masala oats",
+    "dinner": "green tea bowl with grilled veggies and masala oats",
+    "suggestion": "Include more water and physical activity for better results with reduce fat."
+  },
+  {
+    "goal": "reduce fat",
+    "allergy": "seafood",
+    "preference": "sweet",
+    "breakfast": "brown rice with honey oats",
+    "lunch": "brown rice + mixed salad and honey oats",
+    "dinner": "brown rice bowl with grilled veggies and honey oats",
+    "suggestion": "Include more water and physical activity for better results with reduce fat."
+  },
+  {
+    "goal": "reduce fat",
+    "allergy": "seafood",
+    "preference": "oily",
+    "breakfast": "zucchini noodles with grilled sandwich",
+    "lunch": "green tea + mixed salad and grilled sandwich",
+    "dinner": "brown rice bowl with grilled veggies and grilled sandwich",
+    "suggestion": "Include more water and physical activity for better results with reduce fat."
+  },
+  {
+    "goal": "reduce fat",
+    "allergy": "eggs",
+    "preference": "vegetarian",
+    "breakfast": "green tea with methi paratha",
+    "lunch": "green tea + mixed salad and methi paratha",
+    "dinner": "brown rice bowl with grilled veggies and methi paratha",
+    "suggestion": "Include more water and physical activity for better results with reduce fat."
+  },
+  {
+    "goal": "reduce fat",
+    "allergy": "eggs",
+    "preference": "fruits",
+    "breakfast": "brown rice with fruit bowl",
+    "lunch": "green tea + mixed salad and fruit bowl",
+    "dinner": "grilled fish bowl with grilled veggies and fruit bowl",
+    "suggestion": "Include more water and physical activity for better results with reduce fat."
+  },
+  {
+    "goal": "reduce fat",
+    "allergy": "eggs",
+    "preference": "junk food",
+    "breakfast": "zucchini noodles with baked nuggets",
+    "lunch": "grilled fish + mixed salad and baked nuggets",
+    "dinner": "grilled fish bowl with grilled veggies and baked nuggets",
+    "suggestion": "Include more water and physical activity for better results with reduce fat."
+  },
+  {
+    "goal": "reduce fat",
+    "allergy": "eggs",
+    "preference": "salads",
+    "breakfast": "zucchini noodles with chickpea salad",
+    "lunch": "brown rice + mixed salad and chickpea salad",
+    "dinner": "zucchini noodles bowl with grilled veggies and chickpea salad",
+    "suggestion": "Include more water and physical activity for better results with reduce fat."
+  },
+  {
+    "goal": "reduce fat",
+    "allergy": "eggs",
+    "preference": "spicy",
+    "breakfast": "brown rice with masala oats",
+    "lunch": "green tea + mixed salad and masala oats",
+    "dinner": "green tea bowl with grilled veggies and masala oats",
+    "suggestion": "Include more water and physical activity for better results with reduce fat."
+  },
+  {
+    "goal": "reduce fat",
+    "allergy": "eggs",
+    "preference": "sweet",
+    "breakfast": "zucchini noodles with sweet corn salad",
+    "lunch": "grilled fish + mixed salad and sweet corn salad",
+    "dinner": "brown rice bowl with grilled veggies and sweet corn salad",
+    "suggestion": "Include more water and physical activity for better results with reduce fat."
+  },
+  {
+    "goal": "reduce fat",
+    "allergy": "eggs",
+    "preference": "oily",
+    "breakfast": "zucchini noodles with grilled sandwich",
+    "lunch": "green tea + mixed salad and grilled sandwich",
+    "dinner": "brown rice bowl with grilled veggies and grilled sandwich",
+    "suggestion": "Include more water and physical activity for better results with reduce fat."
+  }
+]
