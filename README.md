@@ -20,8 +20,8 @@ The system generates **personalized, daily-structured meal plans** based on a us
 ---
 
 ## 🛠️ Technologies Used
-- **IBM watsonx.ai** (Prompt Lab & Agent Lab)
-- **IBM Watson Assistant**
+- **IBM watsonx.ai** ( Agent Lab)
+- **IBM Watson Agent Builder**
 - **Python (Jupyter Notebook `.ipynb`)**
 - **JSON-based Knowledge Base**
 - **Natural Language Processing (NLP)**
